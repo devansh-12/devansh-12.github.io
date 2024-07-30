@@ -1,0 +1,35 @@
+.text-svg-align {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+  
+}
+
+.text-svg-align svg {
+  margin-right: 8px;
+  
+}
+
+#profile-pic {
+  border-radius: 50%;
+  height: 35px;
+  width: 35px;
+  margin-right: 10px;
+}
+
+.sidebar {
+  box-shadow: 2px;
+  position: fixed;
+  width:280px;
+  height:100%;
+  background-color: #1E1F20;
+}
+
+.maincontent {
+  margin-left: 280px; 
+  padding: 20px; 
+  min-height: 100vh;
+  color: #131314;
+}
+
